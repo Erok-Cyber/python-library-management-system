@@ -1,0 +1,14 @@
+# Files generated or modified when running the coursework program
+/books.txt
+/users.txt
+/loans.txt
+/report.txt
+
+# Python and editor files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
