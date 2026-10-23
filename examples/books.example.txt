@@ -1,0 +1,2 @@
+1;Idioten;Fyodor;Dostoevsky;0
+2;1984;George;Orwell;0
